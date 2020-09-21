@@ -14,3 +14,7 @@ public/
 app/
 
 app/Http/Controllers
+
+
+Changes:
+Added a username and password for users to browse with. Since it is an example website, it should have an example user.
